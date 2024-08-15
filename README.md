@@ -95,15 +95,18 @@
   &emsp;
 
 ---
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaKhaled&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br><br><br><br>
+<br>
 <a href="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
-</a>
- <br><br><br>
- 
-### 📊 Profile status
-[![Aya Khaled's github stats](https://github-readme-stats.vercel.app/api?username=AyaKhaled14&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/Aya-Khaled14/Aya-Khaled14/edit/main/README.md)-stats)
+<br> 
+	
+# 📊 GitHub Stats :
+
+<div style="text-align: center; margin: 2px; padding: 5px;">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Khaled14&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Aya-Khaled14&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aya-Khaled14&theme=react&hide_border=false)<br/>
+
+</div>
