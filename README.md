@@ -69,10 +69,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70"> </a>
    &emsp;
    <a href="#"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70"> </a>
-   &emsp;
-   <a href="#"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="70"> </a>
-   &emsp;
-   <a href="#"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="70"> </a>
+
    
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
   &emsp;
@@ -102,12 +99,11 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaKhaled&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+<br><br><br><br>
 <a href="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
 </a>
-
-
-### 📊 Profile stats
-
+ <br><br><br>
+ 
+### 📊 Profile status
 [![Aya Khaled's github stats](https://github-readme-stats.vercel.app/api?username=AyaKhaled14&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/Aya-Khaled14/Aya-Khaled14/edit/main/README.md)-stats)
