@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 **Suez Canal University - Faculty of Computer Science**
-- 🏢 Backend Developer.
+- 🏢.
 - 👨‍💻  constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with :
