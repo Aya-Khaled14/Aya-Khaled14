@@ -17,10 +17,7 @@
 - 💬 **Ask me about**:
 - 🎯My experience with :
    C, C++,javascripts,Nodejs and MongoDb or related to Backend Concepts.
-- 🎯 **Todo App** project.
-- 🎯 **Note App** project.
-- 🌟 **Current Project**:Develop Backend software Store App project.
-- 🌟 **Unique Experience**: Volunteering in many teams in different tracks; Graphic Designer and as Hr .
+- 🌟 **Unique Experience**:Graphic Designing,ui ux, and as Hr .
 --- 
 ### Connect with Me :
 
