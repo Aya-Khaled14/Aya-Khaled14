@@ -14,10 +14,9 @@
 - 🏢 **Suez Canal University - Faculty of Computer Science**
 - 🏢 NodeJs Backend Developer 
 - 👨‍💻  constantly learning new technologies to improve my skills.
-- 💬 **Ask me about**:
 - 🎯My experience with :
-   C, C++,javascripts,Nodejs and MongoDb or related to Backend Concepts.
-- 🌟 **Unique Experience**:Graphic Designing,ui ux, and as Hr .
+   C, C++,javascripts,Nodejs,nest,sql and MongoDb or related to Backend Concepts.
+- 🌟 **Unique Experience**:Graphic Designing,ui ux, and Hr .
 --- 
 ### Connect with Me :
 
